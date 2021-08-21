@@ -21,5 +21,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "heroku": "^7.56.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
   }
 }
